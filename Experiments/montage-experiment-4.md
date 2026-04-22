@@ -7,7 +7,7 @@ tags:
   - gateshead
 title: Montage Experiment 4
 date: 2026-04-22
-published: false
+published: true
 ---
 ```embed
 title: "Montage Experiment 4"

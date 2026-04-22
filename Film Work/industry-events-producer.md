@@ -8,7 +8,7 @@ tags:
   - "2020"
 title: industry events producer
 date: 2026-04-22
-published: false
+published: true
 ---
 
 
