@@ -72,7 +72,7 @@ frontmatter += "tags: []\n";
 
 frontmatter += `title: ${toYamlString(title)}\n`;
 frontmatter += `date: ${toYamlString(date)}\n`;
-frontmatter += "published: false\n";
+frontmatter += "published: true\n";
 frontmatter += "---\n\n";
 
 await tp.file.move(targetPath);

@@ -5,7 +5,7 @@ tags:
   - utrecht
 title: entangled networks
 date: 2023-11-03
-published: false
+published: true
 ---
 
 ![](opening2.jpg)![](empires3.jpg)![](players3.jpg)

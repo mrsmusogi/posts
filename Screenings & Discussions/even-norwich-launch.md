@@ -5,7 +5,7 @@ tags:
   - chantry-hall
 title: even norwich launch
 date: 2022-09-22
-published: false
+published: true
 ---
 
 ![362](even3.jpg)

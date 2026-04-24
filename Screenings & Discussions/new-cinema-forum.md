@@ -5,7 +5,7 @@ tags:
   - berwick-upon-tweed
 title: New Cinema Forum
 date: 2025-03-27
-published: false
+published: true
 ---
 
 

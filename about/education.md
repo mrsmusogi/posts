@@ -3,7 +3,7 @@ category: about
 tags: []
 title: education
 date: 2026-04-24
-published: false
+published: true
 ---
 MA Research Architecture, Forensic Architecture Studio - Goldsmiths, 2021
 

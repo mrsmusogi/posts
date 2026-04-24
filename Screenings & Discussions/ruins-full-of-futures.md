@@ -5,7 +5,7 @@ tags:
   - london
 title: ruins full of futures
 date: 2025-01-18
-published: false
+published: true
 ---
 
 
