@@ -14,6 +14,6 @@ I worked with three other people to produce the Even launch event in October 202
 
 ![](even2.jpg)
 
-![](even1%201.jpg)
-
 For the launch event, I curated a screening of _Reading Time_ (Charles de Agustin, 2021) followed by a participatory response exercise which I facilitated.
+
+![](even1%201.jpg)

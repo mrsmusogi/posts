@@ -193,13 +193,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/new-note.md",
+                "file": "about/work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "new-note"
+              "title": "work"
             }
           }
         ],
@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -316,17 +316,19 @@
   },
   "active": "ea459e1c2bf9c3b9",
   "lastOpenFiles": [
+    "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
+    "about/education.md",
+    "about/contact.md",
+    "about/work.md",
+    "Screenings & Discussions/entangled-networks.md",
     "Screenings & Discussions/even-norwich-launch.md",
     "Screenings & Discussions/learning-to-imagine-a-future.md",
+    "Screenings & Discussions/new-cinema-forum.md",
+    "_templates/new-note.md",
     "Experiments/montage-experiment-3.md",
     "Experiments/montage-experiment-4.md",
     "Comics/welcome-to-hellhole-city.md",
-    "about/work.md",
-    "about/education.md",
-    "about/contact.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
-    "Screenings & Discussions/new-cinema-forum.md",
-    "Screenings & Discussions/entangled-networks.md",
     "Experiments/montage-experiment-1.md",
     "Experiments/montage-experiment-2.md",
     "Logs/men-mastering-the-elements.md",
@@ -354,7 +356,6 @@
     "Comics/welcome-to-hellhole-city-assets",
     "Comics/drawings-26-april.md",
     "Comics/drawings-23-april.md",
-    "_templates/new-note.md",
     "Comics/drawing-26-april.md",
     "Comics/drawings-26th-april-26.md",
     "Comics/drawings-22nd-april-26.md",

@@ -7,5 +7,7 @@ published: true
 ---
 MA Research Architecture, Forensic Architecture Studio - Goldsmiths, 2021
 
+Undergraduate Research Fellowship in Film Studies - King's College London, 2017
+
 BA Film Studies, First Class with Honours - King's College London, 2017
 
