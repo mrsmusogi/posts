@@ -1,4 +1,6 @@
 [
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-link-embed",
+  "obsidian-custom-attachment-location"
 ]
