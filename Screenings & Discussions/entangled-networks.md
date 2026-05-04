@@ -16,7 +16,7 @@ I was selected from an open call to deliver three screening & discussion events 
 
 The short films are our tools and departure points for these discussions. We will think through each film collectively, and consider the themes and possibilities it presents.
 
-**PLAYERS** 
+## PLAYERS 
 
 Players, the first Screening and discussion, focuses on community. We will examine our individual and collective engagement with video games, and how the gamification of our work and leisure presents an obstacle to community building. We will also look at the potential of using alternative video games to reclaim digital agency at the interpersonal level.
 
@@ -29,7 +29,7 @@ Stay with us afterwards for a discussion with game artists v buckenham and Sjef 
 
 ![](players3.jpg)
 
-**EMPIRES** 
+## EMPIRES
 
 Empires, the second Screening & Discussion, reveals the repercussions of Big Tech takeovers across sectors, and their impact on every aspect of our daily lives. We will examine the commodification of our online activities, and start to assert our digital agency by imagining a future beyond Big Tech.
 
@@ -42,7 +42,7 @@ Join us for a discussion with Policy Officer at Bits of Freedom Lotje Beek and a
 
 ![](empires3.jpg)
 
-**DATA POINTS** 
+## DATA POINTS
 
 Data Points, the third Screening and discussion, looks at the governmental and public institutions that are increasingly turning to algorithms. We will address our status as data points, and consider how we might reclaim our humanity in political discourse and decision-making.
 

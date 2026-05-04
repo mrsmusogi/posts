@@ -15,6 +15,4 @@ I conceptualised, produced and hosted the first edition of Berwick Film & Media 
 
 I moderated the opening conversation between participants and attendees considering the contexts we are all working in: a conversation considering the challenges, contradictions, and persistent sites of possibility that emerge. Anchoring the day with a shared framework, we discuss support mechanisms, alternative structures, and new orientations to take in light of ever-changing circumstances.
 
-You can read more about each event, here: [https://bfmaf.org/programme/new-cinema-forum-2/](https://bfmaf.org/programme/new-cinema-forum-2/)
-
-(Photo credit: Amelia Read, 20th Berwick Film & Media Arts Festival, 2025)
+You can read more about each event on the BFMAF website, [here](https://bfmaf.org/programme/new-cinema-forum-2/). 

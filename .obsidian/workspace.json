@@ -206,14 +206,15 @@
             "id": "ac6df909fa49e885",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Screenings & Discussions/learning-to-imagine-a-future.md",
-                "bFile": "Screenings & Discussions/learning-to-imagine-a-future.md",
-                "aRef": ""
+                "file": "about/work.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: learning-to-imagine-a-future  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "work"
             }
           }
         ],
@@ -330,22 +331,22 @@
   },
   "active": "ac6df909fa49e885",
   "lastOpenFiles": [
+    "Screenings & Discussions/ruins-full-of-futures.md",
+    "Screenings & Discussions/new-cinema-forum.md",
+    "Screenings & Discussions/learning-to-imagine-a-future.md",
+    "Screenings & Discussions/even-norwich-launch.md",
+    "Screenings & Discussions/entangled-networks.md",
     "Logs/men-mastering-the-elements.md",
     "Logs/backdraft-ron-howard-1991.md",
     "Logs/safe.md",
-    "Screenings & Discussions/new-cinema-forum.md",
-    "Screenings & Discussions/learning-to-imagine-a-future.md",
-    "Screenings & Discussions/entangled-networks.md",
     "about/work.md",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
     "about/education.md",
     "about/contact.md",
-    "Screenings & Discussions/even-norwich-launch.md",
     "_templates/new-note.md",
     "Experiments/montage-experiment-3.md",
     "Experiments/montage-experiment-4.md",
     "Comics/welcome-to-hellhole-city.md",
-    "Screenings & Discussions/ruins-full-of-futures.md",
     "Experiments/montage-experiment-1.md",
     "Experiments/montage-experiment-2.md",
     "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
