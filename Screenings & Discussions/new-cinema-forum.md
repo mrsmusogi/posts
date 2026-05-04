@@ -3,7 +3,7 @@ category: Screenings & Discussions
 tags:
   - berwick-film-and-media-arts-festival
   - berwick-upon-tweed
-title: New Cinema Forum
+title: new cinema forum
 date: 2025-03-27
 published: true
 ---

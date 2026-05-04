@@ -3,7 +3,7 @@ category: Screenings & Discussions
 tags:
   - outpost-gallery
   - norwich
-title: learning-to-imagine-a-future
+title: learning to imagine a future
 date: 2023-09-14
 published: true
 ---
