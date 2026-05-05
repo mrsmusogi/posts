@@ -52,3 +52,4 @@ Data Points, the third Screening and discussion, looks at the governmental and p
 The session begins with a screening of _3 Dialogues About the Future_ (Alina Manolache, 2022), a short documentary in which three pairs of robots take us through their learning process, revealing the limitations of their algorithmic visions.
 
 After the film we will be talking with Gwen van Eijk, researcher and Policy Officer Technology and Human Rights at Amnesty International Netherlands, and Renske Leijten, former member of the Dutch parliament for the Socialist Party. We will examine the use of algorithms in the public sector, taking as our starting point Amnesty's recent report on algorithmic bias, titled _Xenophobic Machines_.
+

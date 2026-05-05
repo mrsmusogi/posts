@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/work.md",
+                "file": "Screenings & Discussions/entangled-networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work"
+              "title": "entangled-networks"
             }
           },
           {
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dcc0be311dcfac3",
+  "active": "49a24e4a7e5f45cc",
   "lastOpenFiles": [
+    "about/work.md",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
     "Logs/men-mastering-the-elements.md",
     "Screenings & Discussions/entangled-networks.md",
@@ -190,7 +191,6 @@
     "Experiments/montage-experiment-3.md",
     "Experiments/montage-experiment-1.md",
     "_templates/new-note.md",
-    "about/work.md",
     "about/education.md",
     "Screenings & Discussions/even-norwich-launch.md",
     "Logs/backdraft-ron-howard-1991.md",
