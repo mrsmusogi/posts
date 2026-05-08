@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/contact.md",
+                "file": "Logs/men-mastering-the-elements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "men-mastering-the-elements"
             }
           },
           {
@@ -180,6 +180,7 @@
   },
   "active": "49a24e4a7e5f45cc",
   "lastOpenFiles": [
+    "about/contact.md",
     "Comics/welcome-to-hellhole-city.md",
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",
     "Screenings & Discussions/new-cinema-forum.md",
@@ -196,7 +197,6 @@
     "Screenings & Discussions/even-norwich-launch.md",
     "Logs/backdraft-ron-howard-1991.md",
     "Logs/safe.md",
-    "about/contact.md",
     "Experiments/montage-experiment-4.md",
     "Experiments/montage-experiment-2.md",
     "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
