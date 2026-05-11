@@ -23,6 +23,20 @@
             }
           },
           {
+            "id": "e2e3ecf8209e46d4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
             "id": "4716f52aa4a95767",
             "type": "leaf",
             "state": {
@@ -67,7 +81,8 @@
               "title": "work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49a24e4a7e5f45cc",
+  "active": "e2e3ecf8209e46d4",
   "lastOpenFiles": [
+    "Experiments/montage-experiment-4.md",
+    "Logs/digital-participation.md",
+    "Logs/men-mastering-the-elements.md",
     "about/contact.md",
     "Comics/welcome-to-hellhole-city.md",
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",
@@ -187,7 +205,6 @@
     "Screenings & Discussions/entangled-networks.md",
     "about/work.md",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
-    "Logs/men-mastering-the-elements.md",
     "Screenings & Discussions/learning-to-imagine-a-future.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
     "Experiments/montage-experiment-3.md",
@@ -197,7 +214,6 @@
     "Screenings & Discussions/even-norwich-launch.md",
     "Logs/backdraft-ron-howard-1991.md",
     "Logs/safe.md",
-    "Experiments/montage-experiment-4.md",
     "Experiments/montage-experiment-2.md",
     "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
     "about/contact-assets/Amelia Read Photography-84.jpg",
