@@ -7,14 +7,14 @@ title: documentaries
 date: 2026-06-10
 published: true
 ---
-##  hybrid documentaries 
+##  hybrid documentaries
 
 #### thinking about:
  - fictional narratives embedded in documentary subject matter
  - cinematography 
- - use of or play with genre conventions normally used in fiction
+ - use of or play with genre conventions normally used in fiction  
 
-° ° ° ° ° ° ° ° °
+° ° ° ° ° ° ° ° °  
 
 - the last angel of history - 1996 - john akomfrah
 - john and jane - 2005 - ashim ahluwalia

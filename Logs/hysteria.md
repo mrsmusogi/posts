@@ -9,8 +9,7 @@ title: hysteria
 date: 2026-06-05
 published: true
 ---
-
-## hysteria in the home
+## hysteria in the home  
 
 #### thinking about:
  - home environments as one stimulus for, or representation of variously uncontrollable, unsociable, hysterical states
