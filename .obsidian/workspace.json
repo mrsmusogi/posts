@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comics/welcome-to-hellhole-city.md",
+                "file": "Logs/documentaries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "welcome-to-hellhole-city"
+              "title": "documentaries"
             }
           },
           {
@@ -180,22 +180,22 @@
   },
   "active": "e2e3ecf8209e46d4",
   "lastOpenFiles": [
-    "Logs/documentaries.md",
-    "Logs/hysteria.md",
     "Logs/scifi.md",
+    "Logs/hysteria.md",
+    "Logs/documentaries.md",
     "Logs/watchlist.md",
+    "about/work.md",
+    "Comics/welcome-to-hellhole-city.md",
     "Logs/safe.md",
     "Logs/men-mastering-the-elements.md",
     "Logs/mrsmusogi-mails.md",
     "Experiments/montage-experiment-4.md",
     "about/contact.md",
     "about/education.md",
-    "about/work.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
     "about/work-assets/cv.pdf",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
     "Experiments/montage-experiment-3.md",
-    "Comics/welcome-to-hellhole-city.md",
     "Experiments/montage-experiment-2.md",
     "Experiments/montage-experiment-1.md",
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",

@@ -14,7 +14,7 @@ published: true
  - cinematography 
  - use of or play with genre conventions normally used in fiction  
 
-° ° ° ° ° ° ° ° °  
+° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° °° ° ° ° ° ° °° ° ° ° ° ° °  
 
 - the last angel of history - 1996 - john akomfrah
 - john and jane - 2005 - ashim ahluwalia

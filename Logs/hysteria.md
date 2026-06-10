@@ -17,7 +17,7 @@ published: true
  - mise-en-scene and cinematography foregrounding a sense of confinement
  - the character of exchanges between groups of women 
  
-‿︵‿︵‿୨ ୧‿︵‿︵‿
+‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿
 
 - safe - 1995 - todd haynes
 - if i had legs i'd kick you - 2025 - mary bronstein
