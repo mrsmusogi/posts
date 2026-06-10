@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/work.md",
+                "file": "Logs/documentaries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work"
+              "title": "documentaries"
             }
           },
           {
@@ -196,18 +196,19 @@
   },
   "active": "e2e3ecf8209e46d4",
   "lastOpenFiles": [
+    "Logs/watchlist.md",
+    "Logs/documentaries.md",
+    "Logs/scifi.md",
+    "Logs/hysteria.md",
+    "about/work.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
     "about/education.md",
-    "about/work.md",
     "about/work-assets/cv.pdf",
     "about/contact.md",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
     "Experiments/montage-experiment-4.md",
     "Experiments/montage-experiment-3.md",
-    "Logs/scifi.md",
-    "Logs/hysteria.md",
     "Logs/safe.md",
-    "Logs/watchlist.md",
     "Comics/welcome-to-hellhole-city.md",
     "Logs/mrsmusogi-mails.md",
     "Experiments/montage-experiment-2.md",
