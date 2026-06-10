@@ -8,6 +8,7 @@ title: Men Mastering the Elements
 date: 2026-04-22
 published: false
 ---
+
 ## Backdraft, 1991 / The Perfect Storm, 2000
 
 _[Backdraft ](https://youtu.be/DlXcUyFjNgA) is a film about Chicago firefighters upholding the traditional values of their work. The two heroes are Kurt Russell (big bro) and William Baldwin (little bro) who are on the trail of a serial arsonist. [The Perfect Storm](https://youtu.be/RZvljNvnd18) is about a commercial fishing vessel lost at sea to extraordinary weather conditions, starring George Clooney and Mark Wahlberg in comparable big bro/little bro positions._
