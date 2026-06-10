@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiments/montage-experiment-4.md",
+                "file": "about/work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "montage-experiment-4"
+              "title": "work"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/education.md",
+                "file": "Screenings & Discussions/ruins-full-of-futures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "education"
+              "title": "ruins-full-of-futures"
             }
           },
           {
@@ -196,10 +196,14 @@
   },
   "active": "e2e3ecf8209e46d4",
   "lastOpenFiles": [
-    "Experiments/montage-experiment-3.md",
-    "Experiments/montage-experiment-4.md",
-    "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
+    "Screenings & Discussions/ruins-full-of-futures.md",
+    "about/education.md",
+    "about/work.md",
+    "about/work-assets/cv.pdf",
     "about/contact.md",
+    "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
+    "Experiments/montage-experiment-4.md",
+    "Experiments/montage-experiment-3.md",
     "Logs/scifi.md",
     "Logs/hysteria.md",
     "Logs/safe.md",
@@ -212,11 +216,8 @@
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",
     "Screenings & Discussions/new-cinema-forum.md",
     "Screenings & Discussions/entangled-networks.md",
-    "about/work.md",
     "Screenings & Discussions/learning-to-imagine-a-future.md",
-    "Screenings & Discussions/ruins-full-of-futures.md",
     "_templates/new-note.md",
-    "about/education.md",
     "Screenings & Discussions/even-norwich-launch.md",
     "Logs/backdraft-ron-howard-1991.md",
     "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
@@ -238,7 +239,6 @@
     "Screenings & Discussions/learning-to-imagine-a-future-assets",
     "Screenings & Discussions/new-cinema-forum-assets",
     "Screenings & Discussions/Untitled.md",
-    "Screenings & Discussions/ruins-full-of-futures-assets",
     "Comics/drawings-26-april.md",
     "Comics/drawings-23-april.md"
   ]

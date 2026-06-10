@@ -11,8 +11,7 @@ I am always looking for **freelance opportunities**, so please get in touch with
 - Film Programmer
 - Facilitator or Moderator (for panels, Q&As and open discussion events)
 - Events Producer / Project Manager
-- Arts Administrator specialising in print production
-- Communications consultant
+- Arts Administrator specialising in print production, database and website management
 
 I'd also be super happy to hear from you if you or a group you're working with needs a **poster design on a Pay-What-You-Can basis.**
 
