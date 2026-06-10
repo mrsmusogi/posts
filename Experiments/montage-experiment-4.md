@@ -13,7 +13,7 @@ published: true
 title: "Montage Experiment 4"
 image: "https://i.ytimg.com/vi/ndBRq_iCPnQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFihMMA8=&rs=AOn4CLAt_DfjnGtgiYPNgbxGV-WxmEZYdA"
 description: "2026"
-url: "https://youtu.be/ndBRq_iCPnQ"
+url: "https://www.youtube.com/watch?v=ndBRq_iCPnQ"
 favicon: ""
 aspectRatio: "56.25"
 ```
