@@ -13,7 +13,7 @@ I am always looking for **freelance opportunities**, so please get in touch with
 - Events Producer / Project Manager
 - Arts Administrator specialising in print production, database and website management
 
-I'd also be super happy to hear from you if you or a group you're working with needs a **poster design on a Pay-What-You-Can basis.**
+I'd also be super happy to hear from you if you or a group you're working with needs a **poster design on a Pay-What-You-Can basis.** 
 
 ![](Amelia%20Read%20Photography-84.jpg)
 
