@@ -29,3 +29,5 @@ published: true
 - my brother's wedding - 1983 - charles burnett
 - to sleep with anger - 1990 - charles burnett
 - empty metal - 2018 - adam khalil, bayley sweitzer 
+- serpico - 1973 - sydney lumet
+- dahomey - 2024 - mati diop

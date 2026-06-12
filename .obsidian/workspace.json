@@ -11,15 +11,12 @@
             "id": "e2e3ecf8209e46d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Logs/documentaries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf"
               },
-              "icon": "lucide-file",
-              "title": "documentaries"
+              "icon": "lucide-file-text",
+              "title": "ruinstext"
             }
           },
           {
@@ -28,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Screenings & Discussions/ruins-full-of-futures.md",
+                "file": "Comics/welcome-to-hellhole-city.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ruins-full-of-futures"
+              "title": "welcome-to-hellhole-city"
             }
           },
           {
@@ -43,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/men-mastering-the-elements.md",
+                "file": "Experiments/montage-experiment-3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "men-mastering-the-elements"
+              "title": "montage-experiment-3"
             }
           },
           {
@@ -67,7 +64,8 @@
               "title": "work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,24 +176,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2e3ecf8209e46d4",
+  "active": "4716f52aa4a95767",
   "lastOpenFiles": [
+    "Experiments/montage-experiment-4.md",
+    "Experiments/montage-experiment-3.md",
+    "about/work.md",
+    "about/contact.md",
+    "about/work-assets/cv.pdf",
+    "Screenings & Discussions/ruins-full-of-futures.md",
+    "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
+    "Logs/watchlist.md",
+    "Logs/documentaries.md",
     "Logs/scifi.md",
     "Logs/hysteria.md",
-    "Logs/documentaries.md",
-    "Logs/watchlist.md",
-    "about/work.md",
     "Comics/welcome-to-hellhole-city.md",
     "Logs/safe.md",
     "Logs/men-mastering-the-elements.md",
     "Logs/mrsmusogi-mails.md",
-    "Experiments/montage-experiment-4.md",
-    "about/contact.md",
     "about/education.md",
-    "Screenings & Discussions/ruins-full-of-futures.md",
-    "about/work-assets/cv.pdf",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
-    "Experiments/montage-experiment-3.md",
     "Experiments/montage-experiment-2.md",
     "Experiments/montage-experiment-1.md",
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",
@@ -205,7 +204,6 @@
     "_templates/new-note.md",
     "Screenings & Discussions/even-norwich-launch.md",
     "Logs/backdraft-ron-howard-1991.md",
-    "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
     "about/contact-assets/Amelia Read Photography-84.jpg",
     "about/contact-assets",
     "about/work-assets/docprogs.png",
@@ -224,7 +222,6 @@
     "Screenings & Discussions/learning-to-imagine-a-future-assets",
     "Screenings & Discussions/new-cinema-forum-assets",
     "Screenings & Discussions/Untitled.md",
-    "Comics/drawings-26-april.md",
-    "Comics/drawings-23-april.md"
+    "Comics/drawings-26-april.md"
   ]
 }

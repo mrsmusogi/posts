@@ -24,4 +24,4 @@ I am always looking for **freelance opportunities**, so please get in touch with
 - Arts Administrator specialising in print production, database and website management
 ## CV
 
-![](cv.pdf)
+![view cv](cv.pdf)

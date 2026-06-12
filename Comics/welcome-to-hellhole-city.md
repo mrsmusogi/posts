@@ -22,3 +22,5 @@ You can purchase a copy from the following independent zine distributors:
 
 You can have a read of the comic for free at the following zine libraries:
 - [BALTIC Zine Library](https://archive.baltic.art/object/miranda-mungai-welcome-to-hellhole-city-ma3607), Gateshead NE8
+
+If you are not local to one of these stores, you can purchase the comic on [ebay](https://www.ebay.co.uk/itm/127918644678). 
