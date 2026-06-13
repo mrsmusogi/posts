@@ -14,6 +14,8 @@ I worked with three other people to produce the Even launch event in October 202
 
 ![](even2.jpg)
 
-For the launch event, I curated a screening of _Reading Time_ (Charles de Agustin, 2021) followed by a participatory response exercise which I facilitated.
+For the launch event, I curated a screening of _Reading Time_ ([Charles de Agustin](https://charlesdeagustin.com/), 2021) followed by a participatory response exercise which I facilitated. 
+
+This work had come through open submissions while I was working as Documentary Programme at London Short Film Festival. I couldn't find a place for it in the programme, and was looking for another context to present it in. I later participated in Charles' project **Present** - a platform for time-based and discursive art practices. You can see the recording of my session, [here](https://charlesdeagustin.com/present).
 
 ![](even1%201.jpg)

@@ -10,13 +10,15 @@ published: true
 
 ![](opening2.jpg)
 
-I was selected from an open call to deliver three screening & discussion events responding to the theme of "Reclaiming Digital Agency" for IMPAKT Festival 2023, Our Terms, Our Conditions. I curated one short film per event, researched the themes, invited participants from Policy Officers to digital artists and facilitated each open discussion.
+#### I was selected from an open call to deliver three screening & discussion events responding to the theme of "Reclaiming Digital Agency" for IMPAKT Festival 2023, Our Terms, Our Conditions. I curated one short film per event, researched the themes, invited participants from Policy Officers to digital artists and facilitated each open discussion. Below is the copy I wrote for each event.
+----
 
 **ENTANGLED NETWORKS** is a series of three Screening and discussion events examines our networked society through the lens of three themes: community, categorisation and commodification. Each event explores one of these interconnected themes through the screening of a short film followed by a discussion. Together, we will examine the increasingly opaque ways in which our data is being used. In the communal, non-hierarchical discussion that follows each screening, we will try to re-imagine our world of data as a world of possibility, and begin to understand how we might reclaim our digital agency.
 
 The short films are our tools and departure points for these discussions. We will think through each film collectively, and consider the themes and possibilities it presents.
 
-## PLAYERS 
+---
+# ENTANGLED NETWORKS 1: PLAYERS 
 
 Players, the first Screening and discussion, focuses on community. We will examine our individual and collective engagement with video games, and how the gamification of our work and leisure presents an obstacle to community building. We will also look at the potential of using alternative video games to reclaim digital agency at the interpersonal level.
 
@@ -29,7 +31,8 @@ Stay with us afterwards for a discussion with game artists v buckenham and Sjef 
 
 ![](players3.jpg)
 
-## EMPIRES
+----
+# ENTANGLED NETWORKS 2: EMPIRES
 
 Empires, the second Screening & Discussion, reveals the repercussions of Big Tech takeovers across sectors, and their impact on every aspect of our daily lives. We will examine the commodification of our online activities, and start to assert our digital agency by imagining a future beyond Big Tech.
 
@@ -42,7 +45,8 @@ Join us for a discussion with Policy Officer at Bits of Freedom Lotje Beek and a
 
 ![](empires3.jpg)
 
-## DATA POINTS
+-----
+# ENTANGLED NETWORKS 3: DATA POINTS
 
 Data Points, the third Screening and discussion, looks at the governmental and public institutions that are increasingly turning to algorithms. We will address our status as data points, and consider how we might reclaim our humanity in political discourse and decision-making.
 
@@ -53,3 +57,5 @@ The session begins with a screening of _3 Dialogues About the Future_ (Alina M
 
 After the film we will be talking with Gwen van Eijk, researcher and Policy Officer Technology and Human Rights at Amnesty International Netherlands, and Renske Leijten, former member of the Dutch parliament for the Socialist Party. We will examine the use of algorithms in the public sector, taking as our starting point Amnesty's recent report on algorithmic bias, titled _Xenophobic Machines_.
 
+![](prompt-battle.jpg)
+_(I also came very close to winning an AI Prompt Battle)_
