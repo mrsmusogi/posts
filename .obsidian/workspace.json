@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/education.md",
+                "file": "Logs/de-googling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "education"
+              "title": "de-googling"
             }
           }
         ]
@@ -135,6 +135,7 @@
   },
   "active": "4716f52aa4a95767",
   "lastOpenFiles": [
+    "about/education.md",
     "Logs/de-googling.md",
     "Logs/de-googling-assets/weathr.png",
     "Logs/de-googling-assets",
@@ -145,7 +146,6 @@
     "Logs/hysteria.md",
     "about/work.md",
     "about/contact.md",
-    "about/education.md",
     "Experiments/montage-experiment-4.md",
     "Experiments/montage-experiment-3.md",
     "about/work-assets/cv.pdf",
