@@ -5,7 +5,7 @@ title: contact
 date: 2026-04-24
 published: true
 ---
-Send me an email on miranda@mirandamungai.xyz if you're an **artist or filmmaker who would like to screen their films in a discursive environment.** I can produce and market the event, facilitate a discussion, and introduce your work to different audiences in an engaged context.
+Send me an email on miranda@mirandamungai.xyz if you're an **artist or filmmaker who would like to collaborate and screen your films in a discursive environment.** I can produce and market the event, facilitate a discussion, and introduce your work to different audiences in an engaged context.
 
 I am always looking for **freelance opportunities**, so please get in touch with me if you need a
 - Film Programmer

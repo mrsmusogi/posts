@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Screenings & Discussions/ruins-full-of-futures.md",
+                "file": "about/work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ruins-full-of-futures"
+              "title": "work"
             }
           }
         ]
@@ -135,13 +135,16 @@
   },
   "active": "4716f52aa4a95767",
   "lastOpenFiles": [
+    "about/education.md",
+    "about/contact.md",
+    "about/work.md",
+    "Screenings & Discussions/ruins-full-of-futures.md",
     "Screenings & Discussions/new-cinema-forum.md",
     "Screenings & Discussions/learning-to-imagine-a-future.md",
     "Screenings & Discussions/even-norwich-launch.md",
     "Screenings & Discussions/entangled-networks.md",
     "Screenings & Discussions/entangled-networks-assets/prompt-battle.jpg",
     "Logs/de-googling.md",
-    "about/education.md",
     "Logs/de-googling-assets/weathr.png",
     "Logs/de-googling-assets",
     "Comics/welcome-to-hellhole-city.md",
@@ -149,12 +152,9 @@
     "Logs/documentaries.md",
     "Logs/scifi.md",
     "Logs/hysteria.md",
-    "about/work.md",
-    "about/contact.md",
     "Experiments/montage-experiment-4.md",
     "Experiments/montage-experiment-3.md",
     "about/work-assets/cv.pdf",
-    "Screenings & Discussions/ruins-full-of-futures.md",
     "Screenings & Discussions/ruins-full-of-futures-assets/ruinstext.pdf",
     "Logs/watchlist.md",
     "Logs/safe.md",
