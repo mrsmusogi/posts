@@ -15,7 +15,7 @@ image: "https://i.ytimg.com/vi/ndBRq_iCPnQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENA
 description: "2026"
 url: "https://www.youtube.com/watch?v=ndBRq_iCPnQ"
 favicon: ""
-aspectRatio: "56.25"
+aspectRatio: "75"
 ```
 
 **I’m thinking about how to communicate meaning without using any spoken or written language. The meaning I’m trying to communicate is formal, these are all images that respond to the brief I gave myself of “circles and lines”. Video game footage is from Grand Theft Auto San Andreas, using the [Earth as Moon mod](https://www.gtainside.com/en/sanandreas/mods/117412-earth-as-moon).** 

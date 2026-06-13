@@ -7,11 +7,11 @@ title: de-googling
 date: 2026-06-12
 published: true
 ---
-_ascii computer: https://www.asciiart.eu/art/5b169cd005ac3c7c_
+![](weathr.png)
 
 **process started ->** circa 2020, following an obsession with getting into [private trackers](https://www.reddit.com/r/trackers/wiki/index/), vpns, port forwarding, and seeding. 2021/22 i built a static website in HTML and CSS. 2022/23 i was writing an essay for my MA about [undersea cables](https://www.surfacing.in/?image=new-caledonia-aerial-view), [data centres](https://everestpipkin.medium.com/it-was-raining-in-the-data-center-9e1525c37cc3), satellites and the entanglement of capital-nation-state. in 2023 i was [researching](https://networkcultures.org/longform/2022/03/29/new-dependencies/) and [researching](https://www.amnesty.org/en/documents/eur35/4686/2021/en/) for IMPAKT Festival.
 **log started ->** June 2026
-**report so far ->** June 2026, focused on migrating email. no horizon in sight.
+**report so far ->** June 2026, migrating email. 
 ### resources
 https://european-alternatives.eu/alternatives-to 
 https://github.com/anitwek/alternatives-to-us?tab=readme-ov-file
@@ -22,11 +22,11 @@ https://github.com/anitwek/alternatives-to-us?tab=readme-ov-file
 ### email 
 **2026 -** i am moving away from primarily using gmail. i have created different email accounts for different purposes, hosted on protonmail and tutamail. i also have a custom domain with purelymail (cheap). I'll retain the gmail account throughout the move. this is a long and tedious administrative task. 
 ### web and email domain
-**2023 -** got my web domain with porkbun to host my simple static website exclusively in html and css. later down the line, i will move my custom domain onto [disroot](https://disroot.org/). it seems like a mammoth, unforgiving task i currently can't imagine having the energy and dedication for, but it would be nice to host my own email server.
+**2023 -** got my web domain with porkbun to host my simple static website exclusively in html and css. later down the line, i will move my custom email domain onto [disroot](https://disroot.org/). it seems like a mammoth, unforgiving project i currently can't imagine having the energy and dedication for, but it would be nice to host my own email server.
 ### vpn
 **2025 -** proton vpn is good because it allows port forwarding and they regularly have sales. hosted in EU so subject to more stringent privacy laws, and has a no-logs policy.
 ### web hosting
-**2023** move from krystal to github pages. i'm working towards setting up my own server to host my little static website when i am less itinerant. 
+**2023 -** move from krystal to github pages. ideally will set up my own server to host my little static website when i am less itinerant. 
 ### photos
 **2026 -** i'm very very slowly moving away from google photos towards ente.io. right now, i'm just auto backing everything up on ente.
 ### browsers
@@ -46,11 +46,10 @@ i have been using brave for a long time now after testing out a lot of alternati
 - [3 dialogues about the future](https://alinamanolache.com/documentary-director/3-dialogues-about-the-future/) - 2022 - alina manolache
 - all light, everywhere - 2021 - theo anthony
 
-
 ## online ephemera:
 
 ### thinking about:
-- being on the internet 
+- enjoying being on the internet 
 
 - [default filename](https://everest-pipkin.com/#projects/defaultfilename.html) - 2019 - everest pipkin
 - [gift game](https://everest-pipkin.com/#games/giftgame.html) - everest pipkin

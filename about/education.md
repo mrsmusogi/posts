@@ -11,3 +11,10 @@ Undergraduate Research Fellowship in Film Studies - King's College London, 2017
 
 BA Film Studies, First Class with Honours - King's College London, 2017
 
+## research interests 
+
+- The relationship between national imaginaries, state and capital. 
+- Networked communication infrastructure and digital agency.
+- Organising, social media and expressions of dissent.
+- Gentrification and regeneration.
+
