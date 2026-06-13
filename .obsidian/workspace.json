@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/work.md",
+                "file": "Logs/de-googling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work"
+              "title": "de-googling"
             }
           }
         ]
@@ -135,9 +135,9 @@
   },
   "active": "4716f52aa4a95767",
   "lastOpenFiles": [
+    "about/work.md",
     "about/education.md",
     "about/contact.md",
-    "about/work.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
     "Screenings & Discussions/new-cinema-forum.md",
     "Screenings & Discussions/learning-to-imagine-a-future.md",

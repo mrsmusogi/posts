@@ -60,6 +60,8 @@ i have been using brave for a long time now after testing out a lot of alternati
 ### thinking about:
 - enjoying being on the internet 
 
+‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺
+
 - [default filename](https://everest-pipkin.com/#projects/defaultfilename.html) - 2019 - everest pipkin
 - [gift game](https://everest-pipkin.com/#games/giftgame.html) - everest pipkin
 - [hard lads](https://radiatoryang.itch.io/hardlads) - robert yang
