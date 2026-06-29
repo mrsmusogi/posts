@@ -16,12 +16,6 @@ published: true
 **REPORT SO FAR ->** June 2026, migrating email. 
 
 ---- 
-## resources
-https://european-alternatives.eu/alternatives-to 
-https://github.com/anitwek/alternatives-to-us?tab=readme-ov-file
-
----
-# de-googling log
 ## SMARTPHONE
 **2024 -** i purchased a google pixel phone, which has the most long-standing support from Lineage OS. i will boot Lineage OS onto the phone in a couple of years. i am not rushing to do this as my banking apps are not yet supported and they are pretty useful! 
 
@@ -40,28 +34,21 @@ https://github.com/anitwek/alternatives-to-us?tab=readme-ov-file
 i have been using brave for a long time now after testing out a lot of alternatives to chrome. brave is good because it is chromium based. it runs like chrome.
 
 -----
-# de-googling film log
+# de-googling film + online ephemera log
 
 ### thinking about:
 - network infrastructure
 - materiality of the internet
 - social interactions mediated by digital technologies
+- enjoying being on the internet 
 
-‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺
+‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚
 
 - [center, ring, mall](https://mateovega.com/CENTER-RING-MALL/) - 2023 - mateo vega
 - [identity quest II: a woman on the internet (or the eternal scream)](https://vimeo.com/505208437) - 2021 - jamie jankovic
 - [a wider screen](https://joeahunting.com/awiderscreen) - 2019 - joe hunting
 - [3 dialogues about the future](https://alinamanolache.com/documentary-director/3-dialogues-about-the-future/) - 2022 - alina manolache
 - all light, everywhere - 2021 - theo anthony
-
-## online ephemera:
-
-### thinking about:
-- enjoying being on the internet 
-
-‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺ ⊹˚.‧⁺
-
 - [default filename](https://everest-pipkin.com/#projects/defaultfilename.html) - 2019 - everest pipkin
 - [gift game](https://everest-pipkin.com/#games/giftgame.html) - everest pipkin
 - [hard lads](https://radiatoryang.itch.io/hardlads) - robert yang
