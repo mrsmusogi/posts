@@ -11,14 +11,15 @@
             "id": "4716f52aa4a95767",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "about/work.md",
-                "bFile": "about/work.md",
-                "aRef": ""
+                "file": "Logs/activistism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: work  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "activistism"
             }
           }
         ]
