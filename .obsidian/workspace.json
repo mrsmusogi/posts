@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/activistism.md",
+                "file": "Logs/politics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "activistism"
+              "title": "politics"
             }
           }
         ]
@@ -135,14 +135,16 @@
   },
   "active": "4716f52aa4a95767",
   "lastOpenFiles": [
-    "about/work.md",
-    "about/contact.md",
-    "Logs/activistism.md",
+    "Logs/left-melancholy.md",
     "Logs/hysteria.md",
     "Logs/documentaries.md",
-    "Logs/watchlist.md",
-    "Logs/scifi.md",
     "Logs/de-googling.md",
+    "Logs/politics.md",
+    "Logs/radical-pedagogy.md",
+    "Logs/scifi.md",
+    "about/work.md",
+    "about/contact.md",
+    "Logs/watchlist.md",
     "about/education.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
     "Screenings & Discussions/new-cinema-forum.md",
@@ -166,7 +168,6 @@
     "Experiments/montage-experiment-1.md",
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",
     "_templates/new-note.md",
-    "Logs/backdraft-ron-howard-1991.md",
     "about/contact-assets/Amelia Read Photography-84.jpg",
     "about/contact-assets",
     "about/work-assets/docprogs.png",
@@ -177,7 +178,6 @@
     "Screenings & Discussions/even-norwich-launch-assets/even2.jpg",
     "Screenings & Discussions/even-norwich-launch-assets/even1.jpg",
     "Screenings & Discussions/even-norwich-launch-assets",
-    "Screenings & Discussions/even.md",
     "Screenings & Discussions/entangled-networks-assets/empires2.png",
     "Screenings & Discussions/entangled-networks-assets",
     "Screenings & Discussions/learning-to-imagine-a-future-assets"
