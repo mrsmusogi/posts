@@ -14,7 +14,7 @@ As I have come to understand, the radical societal shift required for the world 
 I organise my freelance work around facilitating conversations because I see this as a primary unit from which a further political project might be possible. Learning how to be in dialogue, how to structure our conversations around collective interests, is an exercise that might benefit a person's attempt to organise with others. I hope these logs will help me maintain focus, and create a space to keep track of the various articles I find online.
 ## politics as thinking log 
 
-_"Politics, as its own form of thinking, comes about through the interaction of the space of collective organization, the social world representing 'what can be done' in a sense, with the forms of community, state and capital. The conception of politics as an active struggle is thus preserved—it is not a static space of what is possible, but a dynamic push and pull between social worlds and their internal tensions that determine possible and necessary forms of resistance"_  (Atlas of Experimental Politics)
+_"Politics, as its own form of thinking, comes about through the interaction of the space of collective organization, the social world representing 'what can be done' in a sense, with the forms of community, state and capital. The conception of politics as an active struggle is thus preserved—it is not a static space of what is possible, but a dynamic push and pull between social worlds and their internal tensions that determine possible and necessary forms of resistance"_  ([Atlas of Experimental Politics](https://www.sum.si/journal-articles/atlas-of-experimental-politics))
 #### thinking about:
 - the relationship between protest and mass media
 - organising strategies
@@ -125,5 +125,3 @@ _"Politics, as its own form of thinking, comes about through the interaction of 
 **Article** -  The Marxist Framework and Attitude on Social Investigation and Class Analysis
 **Author** - Dani Manibat
 **Link** - https://materialjournal.net/social-investigation-and-class-analysis/
-
-
