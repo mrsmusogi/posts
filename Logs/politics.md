@@ -7,7 +7,7 @@ published: false
 ---
 ## "Keep your mind in hell, and despair not"
 
-My interest in politics, organising and activism emerged from spending half my life protesting on the streets - starting with the 2012 protests against the raising of university fee caps in the UK. It also grew from experiences participating in, or attempting to participate in, various activist groups and networks. I see the conflation of urgency and immediacy in large swathes of activism to be counterproductive to achieving any meaningful change. This is not a novel thought - all the reading below offers citations for these little paragraphs. I hope to return to these texts and expand on them over time in my newsletter.
+My interest in politics, organising and activism emerged from spending half my life protesting on the streets - starting with the 2010 protests against the raising of university fee caps in the UK. It also grew from experiences participating in, or attempting to participate in, various activist groups and networks. I see the conflation of urgency and immediacy in large swathes of activism to be counterproductive to achieving any meaningful change. This is not a novel thought - all the reading below offers citations for these little paragraphs.
 
 As I have come to understand, the radical societal shift required for the world to be a tolerable place will not be achieved in my lifetime. This understanding has led me to place greater value on the necessity for a future horizon, an ideal, or a clear political programme - something mutually understood and collectively worked towards - that can outlive it's individual participants. The closest we've gotten to such a project rooted in universal emancipation is communism. Learning from the failures of communism, understanding the idealism underpinning Marxism and experimenting with the forms politics can take today underpins my research, which in turn organises my relationship to the world and to other people.
 
@@ -25,15 +25,14 @@ _"Politics, as its own form of thinking, comes about through the interaction of 
 - the problems with entirely horizontal structures 
 - radical pedagogies and the dialectical-materialist movement of knowledge
 - anti-intellectualism in western activism
-#### current (promiscuous) reading:
-- Mourning Becomes the Law - Gillian Rose
-- Phenomenology of Spirit - Hegel
-- The Critique of Imperialism and the Struggle for Emancipation: In Memory of Domenico Losurdo - https://www.tandfonline.com/toc/rict20/16/1
+#### current reading:
+- Imagined Communities - Benedict Anderson
+- Phenomenology of Spirit - G.W.F. Hegel
 #### to read:
 - Riot, Strike, Riot - Joshua Clover
 - The Rebirth of History: Times of Riots and Uprisings - Alain Badiou
-- More by Dominico Losurdo
 #### books:
+- Hyperpolitics - Anton Jager
 - If We Burn - Vincent Bevins
 - Neither Vertical Nor Horizontal - Rodrigo Nunes
 - The Communist Hypothesis - Alain Badiou
@@ -125,3 +124,11 @@ _"Politics, as its own form of thinking, comes about through the interaction of 
 **Article** -  The Marxist Framework and Attitude on Social Investigation and Class Analysis
 **Author** - Dani Manibat
 **Link** - https://materialjournal.net/social-investigation-and-class-analysis/
+
+**Article** -  A Form of Thinking in a World in Flux
+**Author** - Jodi Dean
+**Link** - https://communispress.com/a-form-for-thinking-in-a-world-in-flux/
+
+**Article** -  Gaza and the Problem of Moral Stupidity
+**Author** - Abdaljawad Omar
+**Link** - https://www.equator.org/articles/moral-stupidity-gaza-palestine-abdaljawad-omar

@@ -3,7 +3,7 @@ category: Logs
 tags: []
 title: left melancholy
 date: 2026-06-30
-published: true
+published: false
 ---
 
 
