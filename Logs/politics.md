@@ -5,16 +5,9 @@ title: politics
 date: 2026-06-29
 published: false
 ---
-## "Keep your mind in hell, and despair not"
+## politics log 
 
-My interest in politics, organising and activism emerged from spending half my life protesting on the streets - starting with the 2010 protests against the raising of university fee caps in the UK. It also grew from experiences participating in, or attempting to participate in, various activist groups and networks. I see the conflation of urgency and immediacy in large swathes of activism to be counterproductive to achieving any meaningful change. This is not a novel thought - all the reading below offers citations for these little paragraphs.
-
-As I have come to understand, the radical societal shift required for the world to be a tolerable place will not be achieved in my lifetime. This understanding has led me to place greater value on the necessity for a future horizon, an ideal, or a clear political programme - something mutually understood and collectively worked towards - that can outlive it's individual participants. The closest we've gotten to such a project rooted in universal emancipation is communism. Learning from the failures of communism, understanding the idealism underpinning Marxism and experimenting with the forms politics can take today underpins my research, which in turn organises my relationship to the world and to other people.
-
-I organise my freelance work around facilitating conversations because I see this as a primary unit from which a further political project might be possible. Learning how to be in dialogue, how to structure our conversations around collective interests, is an exercise that might benefit a person's attempt to organise with others. I hope these logs will help me maintain focus, and create a space to keep track of the various articles I find online.
-## politics as thinking log 
-
-_"Politics, as its own form of thinking, comes about through the interaction of the space of collective organization, the social world representing 'what can be done' in a sense, with the forms of community, state and capital. The conception of politics as an active struggle is thus preserved—it is not a static space of what is possible, but a dynamic push and pull between social worlds and their internal tensions that determine possible and necessary forms of resistance"_  ([Atlas of Experimental Politics](https://www.sum.si/journal-articles/atlas-of-experimental-politics))
+I am interested in an expansive notion of politics that approaches politics as conflict, politics as thinking, politics as the dynamic push and pull of active struggle...
 #### thinking about:
 - the relationship between protest and mass media
 - organising strategies

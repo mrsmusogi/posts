@@ -13,7 +13,7 @@ published: true
 
 **LOG STARTED ->** June 2026
 
-**REPORT SO FAR ->** June 2026, migrating email. 
+**REPORT SO FAR ->** June 2026, migrating email. October 2026, managing email going to spam.
 
 ---- 
 ## SMARTPHONE

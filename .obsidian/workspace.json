@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/work.md",
+                "file": "Logs/watchlist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work"
+              "title": "watchlist"
             }
           }
         ]
@@ -137,16 +137,18 @@
   },
   "active": "4716f52aa4a95767",
   "lastOpenFiles": [
+    "Logs/politics.md",
+    "Logs/hysteria.md",
+    "Logs/housing.md",
+    "Logs/documentaries.md",
+    "Logs/left-melancholy.md",
+    "Logs/dialectics.md",
     "about/website.md",
-    "about/contact.md",
     "about/work.md",
     "Logs/de-googling.md",
-    "Logs/documentaries.md",
-    "Logs/hysteria.md",
-    "Logs/left-melancholy.md",
-    "Logs/politics.md",
-    "Logs/scifi.md",
     "Logs/watchlist.md",
+    "about/contact.md",
+    "Logs/scifi.md",
     "Comics/welcome-to-hellhole-city.md",
     "Logs/radical-pedagogy.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
@@ -167,9 +169,7 @@
     "Logs/mrsmusogi-mails.md",
     "about/work-assets/Miranda Mungai CV WEBSITE.pdf",
     "Experiments/montage-experiment-2.md",
-    "Experiments/montage-experiment-1.md",
     "Comics/welcome-to-hellhole-city-assets/WelcomeToHellholeCity.jpg",
-    "_templates/new-note.md",
     "about/contact-assets/Amelia Read Photography-84.jpg",
     "about/contact-assets",
     "about/work-assets/docprogs.png",

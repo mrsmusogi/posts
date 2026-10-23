@@ -12,11 +12,11 @@ published: true
 ## hysteria in the home  
 
 #### thinking about:
- - home environments as one stimulus for, or representation of variously uncontrollable, unsociable, hysterical states
- - conservatively feminine domestication
+ - home environments as one stimulus for, or representation of variously uncontrollable, unsociable, uncomfortable ("hysterical") states
+ - relationships to conservatively feminine domestication 
  - mise-en-scene and cinematography foregrounding a sense of confinement
- - the character of exchanges between groups of women 
- 
+ - set design / interior design
+
 ‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿‿︵‿︵‿୨ ୧‿︵‿︵‿
 
 - safe - 1995 - todd haynes
@@ -26,5 +26,6 @@ published: true
 - the beguiled - 1971 - don siegel
 - family life - 1971 - krzysztof zanussi
 - possession - 1981 - andrzej źuławski
+- suicide - 1979 - anne charlotte robertson
 
 
