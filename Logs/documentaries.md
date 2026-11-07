@@ -45,6 +45,7 @@ published: true
 - john and jane - 2005 - ashim ahluwalia
 - the final insult - 1997 - charles burnett
 - give it back: crimes against humanity - 2025 - adam khalil, zack khalil
-- bamako - 2006 - Abderrahmane Sissako
+- bamako - 2006 - abderrahmane sissako
 - sitrep - 2025 - blair barnes
+- la commune (paris, 1871) - 2000 - peter watkins 
 

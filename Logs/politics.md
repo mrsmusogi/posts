@@ -7,7 +7,6 @@ published: false
 ---
 ## politics log 
 
-I am interested in an expansive notion of politics that approaches politics as conflict, politics as thinking, politics as the dynamic push and pull of active struggle...
 #### thinking about:
 - the relationship between protest and mass media
 - organising strategies
@@ -19,12 +18,13 @@ I am interested in an expansive notion of politics that approaches politics as c
 - radical pedagogies and the dialectical-materialist movement of knowledge
 - anti-intellectualism in western activism
 #### current reading:
-- Imagined Communities - Benedict Anderson
+- The Great Transformation: The Political and Economic Origins of Our Time - Karl Polanyi
 - Phenomenology of Spirit - G.W.F. Hegel
 #### to read:
 - Riot, Strike, Riot - Joshua Clover
 - The Rebirth of History: Times of Riots and Uprisings - Alain Badiou
 #### books:
+-  Imagined Communities - Benedict Anderson
 - Hyperpolitics - Anton Jager
 - If We Burn - Vincent Bevins
 - Neither Vertical Nor Horizontal - Rodrigo Nunes

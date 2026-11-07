@@ -27,5 +27,6 @@ published: true
 - family life - 1971 - krzysztof zanussi
 - possession - 1981 - andrzej źuławski
 - suicide - 1979 - anne charlotte robertson
+- serial mom - 1994 - john waters
 
 

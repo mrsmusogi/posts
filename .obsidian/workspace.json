@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/watchlist.md",
+                "file": "Logs/dialectics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "watchlist"
+              "title": "dialectics"
             }
           }
         ]
@@ -137,18 +137,18 @@
   },
   "active": "4716f52aa4a95767",
   "lastOpenFiles": [
-    "Logs/politics.md",
+    "Logs/documentaries.md",
     "Logs/hysteria.md",
     "Logs/housing.md",
-    "Logs/documentaries.md",
     "Logs/left-melancholy.md",
+    "Logs/politics.md",
+    "Logs/scifi.md",
+    "Logs/watchlist.md",
     "Logs/dialectics.md",
     "about/website.md",
     "about/work.md",
     "Logs/de-googling.md",
-    "Logs/watchlist.md",
     "about/contact.md",
-    "Logs/scifi.md",
     "Comics/welcome-to-hellhole-city.md",
     "Logs/radical-pedagogy.md",
     "Screenings & Discussions/ruins-full-of-futures.md",
